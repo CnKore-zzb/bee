@@ -2,7 +2,7 @@ api-addr: :1633
 p2p-addr: :1634
 debug-api-addr: :1635
 swap-enable: true
-swap-endpoint: https://192.168.0.10:8545
+swap-endpoint: http://192.168.0.10:8545
 network-id: 1
 mainnet: true
 bootnode: [/ip4/161.97.146.100/tcp/4014/p2p/16Uiu2HAmF3ewbvx9qwCBYEZahjcCHyScDLczWRWFbiDP5SAqtqN2]
